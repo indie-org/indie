@@ -7,7 +7,7 @@ Using the [Deno Deploy](https://deno.com/deploy) service and the deno-blog templ
 You can customize your code as follows:
 
 ```js
-import myNFTs from "https://raw.githubusercontent.com/AlexInt/Indie/main/NFTs/NFTs.tsx";
+import myNFTs from "https://raw.githubusercontent.com/indie-org/indie/main/NFTs/NFTs.tsx";
 
 //https://admin.moralis.io/web3apis
 const MORALIS_API_KEY = "<your moralis api key>";
