@@ -7,7 +7,7 @@ Using the [Deno Deploy](https://deno.com/deploy) service and the deno-blog templ
 You can customize your code as follows:
 
 ```js
-import myNFTs from "https://raw.githubusercontent.com/AlexInt/Indie/main/NFTs/NFTs.tsx";
+import myNFTs from "https://raw.githubusercontent.com/indie-org/indie/main/NFTs/NFTs.tsx";
 
 //https://admin.moralis.io/web3apis
 const MORALIS_API_KEY = "<your moralis api key>";
@@ -27,8 +27,8 @@ myNFTs({
     avatarClass: "rounded-md",
     cover: 'https://assets.otherside.xyz/otherdeeds/62a17937dfc2e63d001599d85d1ad96c3cb86683b31dd6d9e12de55d96088b1c.jpg',
     links: [
-        {title: "vecivedi@gmail.com", url: "mailto:vecivedi@gmail.com"},
-        {title: "opensea", url: "https://opensea.io/collection/archive-of-peaceminusone-2016/drop"},
+        {title: "xxxx@gmail.com", url: "mailto:xxxx@gmail.com"},
+        {title: "opensea", url: "https://opensea.io"},
         {title: 'Binance NFT', url: 'https://www.binance.com/en/nft/home'}
     ]
 });
