@@ -1,0 +1,10 @@
+{
+  "lock": false,
+  "tasks": {
+    "article": "deno run  -A --allow-env=NODE_DEBUG --watch --no-check testdata/my_article.ts --dev",
+    "bsc": "deno run  -A --allow-env=NODE_DEBUG --watch --no-check testdata/my_bsc.ts --dev",
+    "eth": "deno run  -A --allow-env=NODE_DEBUG --watch --no-check testdata/my_eth.ts --dev",
+    "sol": "deno run  -A --allow-env=NODE_DEBUG --watch --no-check testdata/my_sol.ts --dev",
+    "test": "deno test --no-check=remote --allow-read",
+  }
+}
