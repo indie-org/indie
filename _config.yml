@@ -1,1 +1,10 @@
-theme: Jekyll
+# Site settings
+title: Indie
+description: Deploy your NFT collection website quickly using Deno Deploy
+url: "https://github.com/indie-org" # 这里需要替换成你的 GitHub 用户名
+baseurl: "/indie" # 这里需要替换成你的项目名
+repository: "indie-org/indie"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
