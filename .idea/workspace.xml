@@ -5,47 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21bdb702-c270-4e63-8ddd-a2581266ab83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Chains/Arweave.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Chains/EVM.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Chains/IPFS.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Chains/Optimism.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Chains/Solana.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Chains/blockchain.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/DetailPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/ImageBrowser.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/ItemCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/NFTComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/Tags.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/VideoPlayer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/Components/not-found.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/NFTs/NFTs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/tar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/images/zip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/deno.jsonc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/deps.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/docs/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/init.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/keys.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/testdata/my_article.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/testdata/my_bsc.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/testdata/my_eth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/testdata/my_sol.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Gemfile.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Chains/Arweave.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Chains/EVM.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Chains/IPFS.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Chains/Optimism.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Chains/Solana.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Chains/blockchain.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/DetailPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/ImageBrowser.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/ItemCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/NFTComponent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/Tags.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/VideoPlayer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/Components/not-found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NFTs/NFTs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/bkg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/blacktocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/deno.jsonc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/deps.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/keys.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/testdata/my_article.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/testdata/my_bsc.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/testdata/my_eth.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/testdata/my_sol.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/types.d.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680159879689</updated>
       <workItem from="1680159881768" duration="708000" />
-      <workItem from="1680231449079" duration="7139000" />
+      <workItem from="1680231449079" duration="7800000" />
     </task>
     <task id="LOCAL-00001" summary="docs: add md file">
       <created>1680235247160</created>
@@ -144,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680236762848</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: add hacker theme for github page">
+      <created>1680244441059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680244441059</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +161,7 @@
     <MESSAGE value="chore: remove docs" />
     <MESSAGE value="chore: remove themes" />
     <MESSAGE value="chore: update workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: update workspace" />
+    <MESSAGE value="feat: add hacker theme for github page" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add hacker theme for github page" />
   </component>
 </project>
